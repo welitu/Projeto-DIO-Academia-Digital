@@ -1,4 +1,4 @@
-<h1> Projeto Spring Data JPA na Prática </h1>
+<h1> Projeto Spring Data JPA na Prática </h1>Cancel changes
 
 
 <h2>🎯 Objetivo do Projeto</h2>
@@ -75,6 +75,6 @@ Indica qual é o lado inverso ou não dominante da relação.
 
 
 asdasd
-asdasd
-asdasd
+asdas
+asda
 asd
