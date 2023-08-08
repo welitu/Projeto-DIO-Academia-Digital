@@ -78,6 +78,4 @@ asda
 asdas
 dasdas
 das
-
-sd
 d
