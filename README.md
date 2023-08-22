@@ -75,7 +75,7 @@ Indica qual é o lado inverso ou não dominante da relação.
 </ul>
 
 asdasd
-asdasa
+asdas
 dasd
 asdas
 asdasa
