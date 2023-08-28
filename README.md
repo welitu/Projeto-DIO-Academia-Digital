@@ -77,8 +77,6 @@ Indica qual é o lado inverso ou não dominante da relação.
 asd
 as
 da
-
-a
 da
 sad
 a
