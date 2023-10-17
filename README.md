@@ -77,7 +77,7 @@ Indica qual é o lado inverso ou não dominante da relação.
 asdrewt
 daterwte
 daretewrte
-aertewr
+aerte
 dawertre
 as
 assdaf
